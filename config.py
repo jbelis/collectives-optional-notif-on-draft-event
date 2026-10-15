@@ -215,6 +215,7 @@ ACTIVITY_TYPES = {
     26: {"short": "speleo", "name": "Spéléologie", "email":"dev-collectives@cafannecy.fr", "trigram": "ASP"},
     27: {"short": "handicaf", "name": "Handicaf", "email":"dev-collectives@cafannecy.fr", "trigram": "HAN"},
     28: {"short": "escalade_sne", "name": "Escalade en falaise", "email":"dev-collectives@cafannecy.fr", "trigram" : "AEN"},
+    29: {"short": "ppg", "name": "Préparation physique (PPG)", "trigram" : "PPG"},
 }
 # fmt: on
 # pylint: enable=line-too-long
